@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/np-cs/kavie/last-exported-statblock-images/"}
+{"dg-publish":true,"dg-updated":null,"permalink":"/data/np-cs/kavie/last-exported-statblock-images/","dgPassFrontmatter":true}
 ---
 
 Last modified: 
