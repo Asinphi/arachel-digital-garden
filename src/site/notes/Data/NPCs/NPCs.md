@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/np-cs/np-cs/"}
+{"dg-publish":true,"permalink":"/data/np-cs/np-cs/","dgPassFrontmatter":true}
 ---
 
 Last modified: 
