@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/data/np-cs/kavie/kavie/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/data/np-cs/kavie/kavie/","updated":"2023-10-12T11:30:40.604-04:00"}
 ---
-
-Last modified: 
-Last updated: `=this.dg-updated`
-
 
 [[Data/NPCs/Kavie/Last exported statblock images\|Last exported statblock images]]
 
