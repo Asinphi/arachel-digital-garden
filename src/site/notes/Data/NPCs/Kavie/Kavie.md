@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/np-cs/kavie/kavie/","updated":"2023-10-12T11:30:40.604-04:00"}
+{"dg-publish":true,"permalink":"/data/np-cs/kavie/kavie/","updated":"2023-10-12T11:31:49.963-04:00"}
 ---
 
 [[Data/NPCs/Kavie/Last exported statblock images\|Last exported statblock images]]
@@ -48,7 +48,8 @@ bonus_actions:
   desc: Swap positions with one of your lost puppets you can see within 60 ft.
 - name: Consume Puppet (4/day)
   desc: Consume a lost puppet to heal yourself for its remaining health.
-```{ #statblock}
+```
+{ #statblock}
 
 
 ```statblock
