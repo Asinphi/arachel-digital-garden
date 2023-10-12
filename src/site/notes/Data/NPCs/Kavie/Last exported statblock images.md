@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"dg-updated":null,"permalink":"/data/np-cs/kavie/last-exported-statblock-images/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/data/np-cs/kavie/last-exported-statblock-images/","updated":"2023-10-12T11:30:56.661-04:00"}
 ---
-
-Last modified: 
 
 ![Kavie.png](/img/user/_attachments/Kavie.png)
 
