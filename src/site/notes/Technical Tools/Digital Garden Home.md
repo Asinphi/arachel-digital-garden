@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical-tools/digital-garden-home/","tags":["gardenEntry"],"updated":"2023-10-30T05:48:24.403-04:00"}
+{"dg-publish":true,"permalink":"/technical-tools/digital-garden-home/","tags":["gardenEntry"],"updated":"2023-10-30T05:50:45.173-04:00"}
 ---
 
 # Campaign overview
@@ -10,7 +10,7 @@
 **Party size:** 5 players
 **Requirements/restrictions:** Any experience level welcome. Official content will be allowed and provided. I'll manually approve balanced and appropriate homebrew. Guest stars can play characters stronger/weaker than the players and in any role. If you'd like, I can work with you to create a custom NPC statblock for you to play, instead (I've been told my NPC statblocks are more fun and versatile to play than 5e player characters). Again, you'll need a decent computer to use FoundryVTT.
 
-*House rules, lines, and veils can be found in the `#info` channel on the Arachel Discord.*
+*House rules, lines, and veils can be found in the `info` channel on the Arachel Discord.*
 # Synopsis: Calling for Demon Babysitters
 A massive spire stands over the desolate lands below, stretching into the heavens like an endless arm reaching for the stars. A single window overlooks a barren courtyard where a vulture blissfully feeds on the demons who earned the ire of the demon lord. The light within the tower illuminates the figure of a man by the window; dark hair hangs limply around his face while a pair of leathery wings jut from his back. His gaze remains fixed upon something unseen through that window. There comes a voice from the sword beside him—its whispery voice filled with malice and hate. "*Devour.*"
 
