@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical-tools/digital-garden-home/","tags":["gardenEntry"],"updated":"2023-10-30T05:50:45.173-04:00"}
+{"dg-publish":true,"permalink":"/technical-tools/digital-garden-home/","tags":["gardenEntry"],"updated":"2023-10-30T05:54:48.036-04:00"}
 ---
 
 # Campaign overview
@@ -8,7 +8,7 @@
 **System:** D&D 5e
 **Setting:** A homebrew high-fantasy world inspired by Forgotten Realms; Arachel can be considered a demiplane in the Forgotten Realms setting.
 **Party size:** 5 players
-**Requirements/restrictions:** Any experience level welcome. Official content will be allowed and provided. I'll manually approve balanced and appropriate homebrew. Guest stars can play characters stronger/weaker than the players and in any role. If you'd like, I can work with you to create a custom NPC statblock for you to play, instead (I've been told my NPC statblocks are more fun and versatile to play than 5e player characters). Again, you'll need a decent computer to use FoundryVTT.
+**Requirements/restrictions:** Any experience level welcome. Official content will be allowed and provided. I'll manually approve balanced and appropriate homebrew. Guest stars can play characters stronger/weaker than the players and in any role. If you'd like, I can work with you to create a custom NPC statblock like [[Data/Characters/Kavie/Last exported statblock images\|Kavie]] for you to play, instead (I've been told my NPC statblocks are more fun and versatile to play than 5e player characters). Again, you'll need a decent computer to use FoundryVTT.
 
 *House rules, lines, and veils can be found in the `info` channel on the Arachel Discord.*
 # Synopsis: Calling for Demon Babysitters
