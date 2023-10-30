@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technical-tools/digital-garden-home/","tags":["gardenEntry"],"updated":"2023-10-30T05:54:48.036-04:00"}
+{"dg-publish":true,"permalink":"/technical-tools/digital-garden-home/","tags":["gardenEntry"],"updated":"2023-10-30T06:00:52.225-04:00"}
 ---
 
 # Campaign overview
@@ -29,6 +29,5 @@ The man: "..."
 The sword: "...*Idiot.*" The echoes reverberate again and again throughout the chamber until it descends into silence once more.
 
 ---
-
 It seems that demon scion Faramin's luck has finally run out. After Faramin's years of comfort and luxury, Demon Lord Artroz has had enough of his lazy, disgraceful, incompetent son and sends him on a journey of self-reflection. However, putting the sinister stepmother in charge of assembling his bodyguards leads to some strange coincidences... all the warriors contracted just so happen to be non-demons fresh from the land of the demons' foes, warriors who would foreseeably kill the insufferably arrogant weakling as soon as he reveals his demonic nature. Still, she overlooked one thing: it's YOU she hired, and you're no simple puppet. All it takes is a simple loophole to uncover a world-shaking possibility. With Demon Lord Artroz offering the only sliver of hope to free you and perhaps even the entire magical land of Arachel from the Abyss, what's babysitting a rotten brat compared to escaping certain doom?
 
